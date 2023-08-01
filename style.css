@@ -1,0 +1,52 @@
+.length-property{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+    border-style: double;
+    background-color: #f7e3e3;
+}
+
+.my-fruits-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+    border-style: double;
+    background-color: #d1f5a2;
+}
+
+.push-method{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+    border-style: dotted;
+    background-color: #f5e1e9;
+}
+
+.pop-method{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+    border-style: dotted;
+    background-color: #c2fafa;
+}
+
+#second-pop-method{
+    margin-top: 30px;
+    margin-left: 30px;
+    color: red;
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+
+.concat-method{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+    border-style: dotted;
+    background-color: #66373f;
+}
